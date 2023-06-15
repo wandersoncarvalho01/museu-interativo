@@ -176,6 +176,141 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	}
 
 
+(lib.Símbolo14 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Camada_1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#000000").s().p("AmeIVIgWuYINijoIAHTXg");
+	this.shape.setTransform(0.025,0);
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Símbolo14, new cjs.Rectangle(-43.7,-62,87.5,124), null);
+
+
+(lib.Símbolo13 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Camada_1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#000000").s().p("AmKjWIMVkIIgBLwIsUDNg");
+	this.shape.setTransform(0.025,0);
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Símbolo13, new cjs.Rectangle(-39.5,-47.8,79.1,95.69999999999999), null);
+
+
+(lib.Símbolo5 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Camada_1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#000000").s().p("Ak6HlIAAvJIJ1AAIAAPJg");
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Símbolo5, new cjs.Rectangle(-31.5,-48.5,63,97), null);
+
+
+(lib.Símbolo4 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Camada_1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#000000").s().p("ArUJnIAAzNIWpAAIAATNg");
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Símbolo4, new cjs.Rectangle(-72.5,-61.5,145,123), null);
+
+
+(lib.Símbolo3 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Camada_1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#000000").s().p("AmmHVIA2vyIMXCYIhCOjg");
+	this.shape.setTransform(0.025,0);
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Símbolo3, new cjs.Rectangle(-42.2,-54.1,84.5,108.30000000000001), null);
+
+
+(lib.Símbolo1 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Camada_1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#000000").s().p("AnrvsIPXCIIhYdJIt/AIg");
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Símbolo1, new cjs.Rectangle(-49.2,-100.5,98.4,201), null);
+
+
 (lib.popart_1 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
@@ -480,6 +615,52 @@ if (reversed == null) { reversed = false; }
 }).prototype = getMCSymbolPrototype(lib.abstracionismo_1, new cjs.Rectangle(-72.5,-61.5,145,123), null);
 
 
+(lib.Símbolo8 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Camada_1
+	this.cubismo = new lib.Símbolo5();
+	this.cubismo.name = "cubismo";
+	this.cubismo.alpha = 0.0117;
+
+	this.timeline.addTween(cjs.Tween.get(this.cubismo).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Símbolo8, new cjs.Rectangle(-31.5,-48.5,63,97), null);
+
+
+(lib.Símbolo7 = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Camada_1
+	this.abstracionismo = new lib.Símbolo4();
+	this.abstracionismo.name = "abstracionismo";
+	this.abstracionismo.alpha = 0.0117;
+
+	this.timeline.addTween(cjs.Tween.get(this.abstracionismo).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Símbolo7, new cjs.Rectangle(-72.5,-61.5,145,123), null);
+
+
 (lib.popart_2 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
@@ -512,6 +693,135 @@ if (reversed == null) { reversed = false; }
 	props.loop = loop;
 	props.reversed = reversed;
 	cjs.MovieClip.apply(this,[props]);
+
+	this.actionFrames = [0,29,49,70,88,108,127];
+	// timeline functions:
+	this.frame_0 = function() {
+		/* Clique para ir até o quadro e reproduzir
+		Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e continua a reprodução daquele quadro.
+		Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+		
+		Instruções:
+		1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+		2. Números de quadros em EaselJS são iniciados por 0, não 1
+		*/
+		
+		this.fauvismo.addEventListener("click", fl_ClickToGoToAndPlayFromFrame.bind(this));
+		
+		function fl_ClickToGoToAndPlayFromFrame()
+		{
+			this.gotoAndPlay('fauvismo');
+		}
+		
+		
+		
+		/* Clique para ir até o quadro e reproduzir
+		Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e continua a reprodução daquele quadro.
+		Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+		
+		Instruções:
+		1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+		2. Números de quadros em EaselJS são iniciados por 0, não 1
+		*/
+		
+		this.modernismo.addEventListener("click", fl_ClickToGoToAndPlayFromFrame_3.bind(this));
+		
+		function fl_ClickToGoToAndPlayFromFrame_3()
+		{
+			this.gotoAndPlay('modernismo');
+		}
+		
+		
+		/* Clique para ir até o quadro e reproduzir
+		Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e continua a reprodução daquele quadro.
+		Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+		
+		Instruções:
+		1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+		2. Números de quadros em EaselJS são iniciados por 0, não 1
+		*/
+		
+		this.movieClip_1.addEventListener("click", fl_ClickToGoToAndPlayFromFrame_7.bind(this));
+		
+		function fl_ClickToGoToAndPlayFromFrame_7()
+		{
+			this.gotoAndPlay('abstracionismo');
+		}
+		
+		
+		/* Clique para ir até o quadro e reproduzir
+		Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e continua a reprodução daquele quadro.
+		Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+		
+		Instruções:
+		1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+		2. Números de quadros em EaselJS são iniciados por 0, não 1
+		*/
+		
+		this.movieClip_2.addEventListener("click", fl_ClickToGoToAndPlayFromFrame_8.bind(this));
+		
+		function fl_ClickToGoToAndPlayFromFrame_8()
+		{
+			this.gotoAndPlay('cubismo');
+		}
+		
+		
+		
+		/* Clique para ir até o quadro e reproduzir
+		Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e continua a reprodução daquele quadro.
+		Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+		
+		Instruções:
+		1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+		2. Números de quadros em EaselJS são iniciados por 0, não 1
+		*/
+		
+		this.pop_art.addEventListener("click", fl_ClickToGoToAndPlayFromFrame_21.bind(this));
+		
+		function fl_ClickToGoToAndPlayFromFrame_21()
+		{
+			this.gotoAndPlay('pop_art');
+		}
+		
+		
+		/* Clique para ir até o quadro e reproduzir
+		Clicar na instância do símbolo especificado move o indicador de reprodução até o quadro especificado na linha de tempo e continua a reprodução daquele quadro.
+		Pode ser usado na linha de tempo principal ou nas linhas de tempo do clipe de filme.
+		
+		Instruções:
+		1. Substitua o número 5 no código abaixo pelo número de quadro para o qual você gostaria que o indicador de reprodução se movesse quando se clica na instância do símbolo.
+		2. Números de quadros em EaselJS são iniciados por 0, não 1
+		*/
+		
+		this.bt_fut.addEventListener("click", fl_ClickToGoToAndPlayFromFrame_22.bind(this));
+		
+		function fl_ClickToGoToAndPlayFromFrame_22()
+		{
+			this.gotoAndPlay('futurismo');
+		}
+		this.stop();
+	}
+	this.frame_29 = function() {
+		this.stop();
+	}
+	this.frame_49 = function() {
+		this.stop();
+	}
+	this.frame_70 = function() {
+		this.stop();
+	}
+	this.frame_88 = function() {
+		this.stop();
+	}
+	this.frame_108 = function() {
+		this.stop();
+	}
+	this.frame_127 = function() {
+		this.stop();
+	}
+
+	// actions tween:
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(29).call(this.frame_29).wait(20).call(this.frame_49).wait(21).call(this.frame_70).wait(18).call(this.frame_88).wait(20).call(this.frame_108).wait(19).call(this.frame_127).wait(18));
 
 	// fauvismo
 	this.instance = new lib.infofauvismo();
@@ -555,6 +865,45 @@ if (reversed == null) { reversed = false; }
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(110).to({_off:false},0).to({x:261.65,y:590.4},17).to({_off:true},1).wait(17));
 
+	// botao
+	this.bt_fut = new lib.Símbolo14();
+	this.bt_fut.name = "bt_fut";
+	this.bt_fut.setTransform(455,313);
+	this.bt_fut.alpha = 0.0117;
+
+	this.pop_art = new lib.Símbolo13();
+	this.pop_art.name = "pop_art";
+	this.pop_art.setTransform(441.5,195.5);
+	this.pop_art.alpha = 0.0117;
+
+	this.movieClip_2 = new lib.Símbolo8();
+	this.movieClip_2.name = "movieClip_2";
+	this.movieClip_2.setTransform(296.5,427.5);
+
+	this.movieClip_1 = new lib.Símbolo7();
+	this.movieClip_1.name = "movieClip_1";
+	this.movieClip_1.setTransform(72.5,434.5);
+
+	this.modernismo = new lib.Símbolo3();
+	this.modernismo.name = "modernismo";
+	this.modernismo.setTransform(288.6,193.5,1.0049,1.0803,0,0,0,0.1,0);
+	this.modernismo.alpha = 0.0117;
+
+	this.fauvismo = new lib.Símbolo1();
+	this.fauvismo.name = "fauvismo";
+	this.fauvismo.setTransform(192.8,243.35,1.0069,1.0455,0,0,0,0.4,0.5);
+	this.fauvismo.alpha = 0.0117;
+
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f().s("rgba(0,153,51,0)").ss(1,1,1).p("AYsmiIAAgRIA9AAEAjKgVBIAAJZIpgAAEAl4gGzIBgAAIAAOrIhaAAEAoAADnIAABfAhj8MINRAAIAASSItRAAgAzX7uIPeAAMAAAAgyIveAAIAAhZEgn/AI/IWqAAIAATOI2qAAgABaJ7IJ2AAIAAPKIp2AAg");
+	this.shape.setTransform(256,315.5);
+
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f().s("rgba(0,153,51,0)").ss(1,1,1).p("EAh6gOSIAABjIi5AAEAoAADnIAABfAhj8MINRAAIAASSItRAAgAzX7uIPeAAMAAAAgyIveAAIAAhZEgn/AI/IWqAAIAATOI2qAAgABaJ7IJ2AAIAAPKIp2AAg");
+	this.shape_1.setTransform(256,315.5);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape},{t:this.fauvismo,p:{x:192.8}},{t:this.modernismo},{t:this.movieClip_1},{t:this.movieClip_2},{t:this.pop_art},{t:this.bt_fut}]}).to({state:[{t:this.shape_1},{t:this.fauvismo,p:{x:181.8}},{t:this.modernismo},{t:this.movieClip_1},{t:this.movieClip_2}]},144).wait(1));
+
 	// fundo
 	this.instance_6 = new lib.fauvismo_1();
 	this.instance_6.setTransform(177,238.5);
@@ -582,7 +931,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(250,450,990.5,450);
+p.nominalBounds = new cjs.Rectangle(249,450,991.5,450);
 // library properties:
 lib.properties = {
 	id: 'F6EF47FF50043C43AC93B8A8D19DE840',
